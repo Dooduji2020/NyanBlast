@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "307255409471",
+    "project_id": "nyanblast-99861949",
+    "storage_bucket": "nyanblast-99861949.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307255409471:android:1f50ede5c20115b41d718a",
+        "android_client_info": {
+          "package_name": "com.LibraStudio.NyanBlaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307255409471-ortdq0k0u0f7ov41f34nbeq3t3h7fcsa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT9gCqKmO61g5LYyAE0veCbhaipcm9M7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307255409471-ortdq0k0u0f7ov41f34nbeq3t3h7fcsa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
